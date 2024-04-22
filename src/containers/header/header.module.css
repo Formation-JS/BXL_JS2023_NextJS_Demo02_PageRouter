@@ -1,0 +1,13 @@
+.header {
+    background-color: darkgreen;
+    color: whitesmoke;
+}
+
+.header nav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.header nav ul li {
+    padding: 1ch;
+}
